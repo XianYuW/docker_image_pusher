@@ -3,3 +3,6 @@ jenkins/jenkins
 gitlab/gitlab-ce:15.6.3-ce.0
 gitlab/gitlab-ce
 a79520/centos7.9
+mysql:5.7
+wordpress
+nginx

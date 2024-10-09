@@ -6,3 +6,4 @@ a79520/centos7.9
 mysql:5.7
 wordpress
 nginx
+node:14.v2

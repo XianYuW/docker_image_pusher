@@ -8,3 +8,4 @@ wordpress
 nginx
 node:14.17.6
 sonatype/nexus3
+goharbor/prepare:v1.10.1

@@ -7,3 +7,4 @@ mysql:5.7
 wordpress
 nginx
 node:14.17.6
+sonatype/nexus3
